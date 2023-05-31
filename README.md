@@ -1,6 +1,6 @@
-You can call me Lava or Kitsyan
-I'm currently interested in journalling
-I’m currently learning html, planning to learn css and javascript in the future
+<p>You can call me Lava or Kitsyan</p>
+<p>I'm currently interested in animation & journalling</p>
+<p>learning html, planning to learn css and javascript in the future</p>
 
 
 <!---
