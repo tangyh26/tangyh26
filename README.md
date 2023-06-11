@@ -1,7 +1,4 @@
-<p>You can call me Lava or Kitsyan</p>
-<p>I'm currently interested in animation & journalling</p>
-<p>learning html, planning to learn css and javascript in the future</p>
-<p>inspirations: Katyj98, BFDI</p>
+
 
 
 <!---
